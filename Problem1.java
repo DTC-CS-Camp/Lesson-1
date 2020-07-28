@@ -14,6 +14,9 @@ public class Problem1 {
       for ... {
         do something
       }
+      for ... {
+        do something else
+      }
     }
     */
     //EDIT CODE ABOVE /\
