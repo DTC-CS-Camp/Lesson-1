@@ -12,6 +12,7 @@ class Main {
 		 *when you're ready, uncomment the line below (with a regular comment),
 		 *and then click the play button.
 		**/
+	  
     //Uncomment line below to test getGrade()
 		//System.out.println("This student got an " + Student.getGrade() + " grade");
 
@@ -29,9 +30,9 @@ class Main {
     //Student.changeGender();
     //System.out.println("This student now has a gender value of " + Student.getGender());
 
-    //Uncomment line below to test giveMoney()
     //NOTE: THIS SHOULD ERROR - IT SHOULD NOT RUN
     //IF IT RUNS, CHECK WITH YOUR MENTOR
+		//Uncomment line below to test giveMoney()
 		//System.out.println("This student had " + //Student.getMoney() + " dollars");
     //Student.giveMoney(10); //this line should error
     //System.out.println("This student now has " + //Student.getMoney() + " dollars");
